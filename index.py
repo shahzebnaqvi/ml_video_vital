@@ -1,1 +1,0 @@
-from wgsi import app
